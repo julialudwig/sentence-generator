@@ -1,1 +1,1 @@
-# cs2043-a2
+# Sentence Generator
